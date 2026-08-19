@@ -1,0 +1,6 @@
+{
+  "name": "Study Notes AI",
+  "description": "Paste study notes to summarize, explain concepts, or generate quizzes with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
